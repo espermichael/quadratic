@@ -1,0 +1,16 @@
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.exe
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.deps.json
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.runtimeconfig.json
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.runtimeconfig.dev.json
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.dll
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\ref\quadratic.dll
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\bin\Debug\net5.0\quadratic.pdb
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.csprojAssemblyReference.cache
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.AssemblyInfoInputs.cache
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.AssemblyInfo.cs
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.csproj.CoreCompileInputs.cache
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.dll
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\ref\quadratic.dll
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.pdb
+C:\Users\mtmcleod\Documents\GitHub\CSharp\quadratic\obj\Debug\net5.0\quadratic.genruntimeconfig.cache
